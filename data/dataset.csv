@@ -1,0 +1,246 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+hello there,greeting
+hi bot,greeting
+hey buddy,greeting
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+nice to meet you,greeting
+how are you,greeting
+how are you doing,greeting
+what’s up,greeting
+yo,greeting
+greetings,greeting
+hi there,greeting
+hello friend,greeting
+hey there,greeting
+good day,greeting
+hello again,greeting
+
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+bye bye,goodbye
+talk to you later,goodbye
+have a good day,goodbye
+see you soon,goodbye
+catch you later,goodbye
+i am leaving,goodbye
+i have to go,goodbye
+see you tomorrow,goodbye
+good night,goodbye
+take care,goodbye
+farewell,goodbye
+talk later,goodbye
+see ya,goodbye
+bye for now,goodbye
+until next time,goodbye
+i am logging off,goodbye
+ending chat,goodbye
+
+i feel sad,emotion_sad
+i am feeling low,emotion_sad
+i feel depressed,emotion_sad
+i am stressed,emotion_sad
+i feel lonely,emotion_sad
+i feel very tired,emotion_sad
+nothing is going right,emotion_sad
+i feel hopeless,emotion_sad
+i am under pressure,emotion_sad
+i am worried,emotion_sad
+i feel mentally exhausted,emotion_sad
+life feels hard,emotion_sad
+i feel like crying,emotion_sad
+i am unhappy,emotion_sad
+i feel down today,emotion_sad
+everything feels wrong,emotion_sad
+i am frustrated,emotion_sad
+i feel empty,emotion_sad
+i am nervous,emotion_sad
+i feel anxious,emotion_sad
+i am not okay,emotion_sad
+i feel weak,emotion_sad
+i feel broken,emotion_sad
+i am tired of everything,emotion_sad
+nothing makes me happy,emotion_sad
+
+i feel happy,emotion_happy
+i am excited,emotion_happy
+i feel great today,emotion_happy
+i am joyful,emotion_happy
+this is amazing,emotion_happy
+today is a great day,emotion_happy
+i am feeling awesome,emotion_happy
+everything is going well,emotion_happy
+i got good marks,emotion_happy
+i am proud of myself,emotion_happy
+i feel energetic,emotion_happy
+life is good,emotion_happy
+i am very happy today,emotion_happy
+i feel motivated,emotion_happy
+i feel positive,emotion_happy
+things are going great,emotion_happy
+i feel successful,emotion_happy
+i achieved my goal,emotion_happy
+i feel confident,emotion_happy
+i am satisfied,emotion_happy
+i feel relaxed,emotion_happy
+today is wonderful,emotion_happy
+i am in a good mood,emotion_happy
+i feel strong,emotion_happy
+everything feels right,emotion_happy
+
+suggest me a career,career_advice
+what career should i choose,career_advice
+i need career guidance,career_advice
+which field is good for me,career_advice
+help me choose my future,career_advice
+what job is best for me,career_advice
+what should i do after school,career_advice
+i need future advice,career_advice
+which stream should i choose,career_advice
+what is a good career option,career_advice
+should i choose science,career_advice
+which course is best,career_advice
+what should i study,career_advice
+how to choose a career,career_advice
+give me career ideas,career_advice
+what job suits me,career_advice
+which field has good future,career_advice
+best career for students,career_advice
+how to select a profession,career_advice
+i am confused about career,career_advice
+
+can you help me,help
+i need help,help
+please assist me,help
+i am confused,help
+guide me,help
+please guide me,help
+i need some support,help
+can you assist me,help
+help me with my problem,help
+i don’t know what to do,help
+i need advice,help
+please help me,help
+i am stuck,help
+i need assistance,help
+can you support me,help
+help me out,help
+i need guidance,help
+please solve my issue,help
+i want help,help
+support me,help
+
+what is ai,info_ai
+tell me about machine learning,info_ai
+explain deep learning,info_ai
+what is chatbot,info_ai
+what is data science,info_ai
+define artificial intelligence,info_ai
+what does ai mean,info_ai
+tell me about automation,info_ai
+what is neural network,info_ai
+what is robotics,info_ai
+explain ai in simple terms,info_ai
+what is technology,info_ai
+what is programming,info_ai
+tell me about algorithms,info_ai
+what is coding,info_ai
+what is python,info_ai
+explain software,info_ai
+what is computer science,info_ai
+what is ml,info_ai
+define chatbot,info_ai
+
+thank you,thanks
+thanks a lot,thanks
+appreciate it,thanks
+good job,thanks
+many thanks,thanks
+thanks,thanks
+thank you so much,thanks
+thanks for helping,thanks
+i appreciate your help,thanks
+thanks buddy,thanks
+
+how can i study better,study_advice
+give me study tips,study_advice
+how to focus on studies,study_advice
+i can’t concentrate,study_advice
+how to improve grades,study_advice
+how to study effectively,study_advice
+best study methods,study_advice
+how to remember things,study_advice
+study techniques,study_advice
+how to prepare for exams,study_advice
+how to manage study time,study_advice
+i want better marks,study_advice
+help me with studies,study_advice
+study advice please,study_advice
+how to avoid distractions,study_advice
+
+motivate me,motivation
+i need motivation,motivation
+say something inspiring,motivation
+encourage me,motivation
+i feel unmotivated,motivation
+give me motivation,motivation
+i need encouragement,motivation
+inspire me,motivation
+say something positive,motivation
+i lost motivation,motivation
+boost my confidence,motivation
+help me stay motivated,motivation
+tell me something inspiring,motivation
+give me a motivational quote,motivation
+make me feel better,motivation
+
+what time is it,time_query
+tell me the time,time_query
+current time,time_query
+can you tell time,time_query
+what’s the time,time_query
+time now,time_query
+give me time,time_query
+show time,time_query
+i want to know time,time_query
+tell current time,time_query
+
+i am not good enough,self_doubt
+i feel like a failure,self_doubt
+i can’t do anything right,self_doubt
+i lack confidence,self_doubt
+i doubt myself,self_doubt
+i feel useless,self_doubt
+i am not smart,self_doubt
+i feel inferior,self_doubt
+i am not capable,self_doubt
+i feel worthless,self_doubt
+
+i can’t focus,productivity
+i am distracted,productivity
+how to be productive,productivity
+i waste too much time,productivity
+help me focus,productivity
+how to avoid procrastination,productivity
+i can’t complete tasks,productivity
+how to manage time,productivity
+i feel lazy,productivity
+i procrastinate a lot,productivity
+
+this answer is wrong,meta_learning
+you made a mistake,meta_learning
+that is incorrect,meta_learning
+you are wrong,meta_learning
+learn this instead,meta_learning
+that response is not correct,meta_learning
+you should improve,meta_learning
+this is not the right answer,meta_learning
+correct yourself,meta_learning
+remember this answer,meta_learning
+
+i want to become pilot,career_advice
